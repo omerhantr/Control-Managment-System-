@@ -1,0 +1,3 @@
+if you are using linux with based ubuntu then you should let user access to folder 
+
+sudo chmod 777 path/
